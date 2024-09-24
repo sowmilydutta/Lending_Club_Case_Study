@@ -61,7 +61,7 @@ The dataset covers a time period from 2007 to 2011 and provides a comprehensive 
 ## Conclusions
 
 - **Conclusion 1: Key Default Indicators Identified**
-  The analysis revealed several significant attributes that strongly correlate with loan default. Key factors include applicant’s credit score, loan amount, and employment status. These indicators are crucial for predicting the likelihood of default and can be used to refine risk assessment models.
+  The analysis revealed several significant attributes that strongly correlate with loan default. Key factors include the applicant’s credit score, loan amount, and employment status. These indicators are crucial for predicting the likelihood of default and can be used to refine risk assessment models.
 
 - **Conclusion 2: Impact of Loan Amount on Default Risk**
   Larger loan amounts are associated with a higher risk of default. This suggests that borrowers with higher loan amounts are more likely to default, highlighting the need for stricter scrutiny and possibly higher interest rates for larger loans.
@@ -76,13 +76,12 @@ The dataset covers a time period from 2007 to 2011 and provides a comprehensive 
 
 ## Technologies Used
 
-- **Python** - Version 3.8
-- **Pandas** - Version 1.5.3
-- **NumPy** - Version 1.24.2
-- **Matplotlib** - Version 3.7.1
+- **Python** - Version 3.17
+- **Pandas** - Version 2.1.4
+- **NumPy** - Version 1.26.4
+- **Matplotlib** - Version 3.8.0
 - **Seaborn** - Version 0.12.2
-- **Scikit-Learn** - Version 1.3.1
-- **Jupyter Notebook** - Version 6.5.3
+- **Jupyter Notebook** - Version 6.5.4
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
