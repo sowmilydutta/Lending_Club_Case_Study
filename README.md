@@ -10,7 +10,8 @@ This project involves analyzing a loan dataset to understand and identify factor
 
 ### Business Understanding
 The company specializes in offering various types of loans to urban customers and must decide on loan approvals based on applicant profiles. The two types of risks associated with loan decisions are:
-1. **Business Loss**: Loss of potential business if a creditworthy applicant is denied a loan.
+1. **Credit Loss**: Loss incurred if a borrower defaults on repayment.
+2. **Business Loss**: Loss of potential business if a creditworthy applicant is denied a loan.
 
 Understanding loan default drivers helps mitigate financial risks by allowing the company to adjust loan terms or reject high-risk applications.
 
