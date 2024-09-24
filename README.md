@@ -1,5 +1,4 @@
-# Project Name
-> UpGrad: Lending Club Case Study
+# UpGrad: Lending Club Case Study
 
 
 # Loan Default Risk Analysis
