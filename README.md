@@ -1,6 +1,7 @@
 # UpGrad: Lending Club Case Study
 > Performing Risk analytics in consumer finance to minimize financial losses resulting from loan defaults. With attributes that include customer and loan data, the objective is to find patterns within Exploratory Data Analysis (EDA) which will help predict whether someone will or won't default on a loan. One of the popular use case is to analyze historical loan data, and reduce risk by rejecting risky applications, or lessening terms of loan for high risk borrowers. Deliverables : Python Analysis, Business Insights PowerPoint Deck, GitHub.
 
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -22,7 +23,7 @@
 > 2. **Business Loss** :A Possible loss of business if a creditworthy applicant is declined loan.
 >
 > By knowing the drivers of loan default, a company can modify loan terms or refuse high-risk applications, hedging financial risks.
-
+>
 > ### Dataset Overview
 > The dataset includes:
 > - **Loan Application Details**: Information about the applicants and their loan requests.
@@ -63,7 +64,6 @@
 ## Acknowledgements
 > - **Data Source**: The loan dataset provided for this analysis from UpGrad.
 > - **Educational Resources**: Various online resources and courses that helped in learning EDA and risk analytics techniques.
-
 
 
 ## Contact
